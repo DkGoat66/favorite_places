@@ -24,6 +24,7 @@ class _AddPlaceScreenState extends State<AddPlaceScreen> {
       appBar: AppBar(
         title: const Text('Add new Place'),
       ),
+      // Scrollable body that allows vertical scrolling if needed
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(12),
         child: Column(
