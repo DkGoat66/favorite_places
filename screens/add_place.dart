@@ -17,6 +17,7 @@ class _AddPlaceScreenState extends State<AddPlaceScreen> {
     super.dispose();
   }
 
+  //Builds the UI of the widget
   @override
   Widget build(BuildContext context) {
     return Scaffold(
