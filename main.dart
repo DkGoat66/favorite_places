@@ -8,7 +8,7 @@ final colorScheme = ColorScheme.fromSeed(
   seedColor: const Color.fromARGB(255, 102, 6, 247),
   background: const Color.fromARGB(255, 56, 49, 66),
 );
-
+// Define the theme data for the app, using Material3 and custom settings
 final theme = ThemeData().copyWith(
   useMaterial3: true,
   scaffoldBackgroundColor: colorScheme.background,
