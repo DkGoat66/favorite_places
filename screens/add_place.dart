@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+//Stateful widget for adding a new place
 class AddPlaceScreen extends StatefulWidget {
   const AddPlaceScreen({super.key});
   @override
