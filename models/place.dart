@@ -1,3 +1,4 @@
+// Importing the 'uuid' package which provides utilities for generating UUIDs (Universally Unique Identifiers).
 import 'package:uuid/uuid.dart';
 
 const uuid = Uuid();
