@@ -10,6 +10,7 @@ class PlacesScreen extends StatelessWidget {
     return Scaffold(
             // Creating an AppBar with a title and an action button.
       appBar: AppBar(
+        // title of the appbar
         title: const Text('Your places'),
         actions: [
           IconButton(
