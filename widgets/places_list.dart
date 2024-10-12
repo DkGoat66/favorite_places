@@ -3,6 +3,7 @@ import 'package:favorite_places/models/place.dart';
 import 'package:flutter/material.dart';
 //Defining a statelesss widged called PlacesList
 class PlacesList extends StatelessWidget {
+  // COnstructor to accept a list of places 
   const PlacesList({super.key, required this.places});
   final List<Place> places;
   @override
