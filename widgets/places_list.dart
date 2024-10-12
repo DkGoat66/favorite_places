@@ -1,3 +1,4 @@
+// Importing the required packages
 import 'package:favorite_places/models/place.dart';
 import 'package:flutter/material.dart';
 
