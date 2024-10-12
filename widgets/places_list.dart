@@ -6,6 +6,7 @@ class PlacesList extends StatelessWidget {
   // COnstructor to accept a list of places 
   const PlacesList({super.key, required this.places});
   final List<Place> places;
+  // Overriding the build method, which returns the widget UI
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
