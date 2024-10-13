@@ -20,7 +20,9 @@ final theme = ThemeData().copyWith(
       fontWeight: FontWeight.bold,
     ),
     titleMedium: GoogleFonts.ubuntuCondensed(
-      fontWeight: FontWeight.bold,
+      // Bold font for medium title
+      fontWeight: FontWeight.bold, 
+      
     ),
     titleLarge: GoogleFonts.ubuntuCondensed(
       fontWeight: FontWeight.bold,
