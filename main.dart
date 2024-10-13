@@ -17,6 +17,7 @@ final theme = ThemeData().copyWith(
   //   // Use Google Fonts for custom typography, specifically 'Ubuntu Condensed'
   textTheme: GoogleFonts.ubuntuCondensedTextTheme().copyWith(
     titleSmall: GoogleFonts.ubuntuCondensed(
+      //Bold font for small title
       fontWeight: FontWeight.bold,
     ),
     titleMedium: GoogleFonts.ubuntuCondensed(
