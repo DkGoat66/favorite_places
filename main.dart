@@ -1,3 +1,4 @@
+// Importing necessary packages fro Flutter, custom fonts, and screen navigation 
 import 'package:favorite_places/screens/places.dart';
 import 'package:flutter/material.dart';
 
