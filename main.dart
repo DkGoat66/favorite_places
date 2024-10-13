@@ -14,6 +14,7 @@ final theme = ThemeData().copyWith(
   useMaterial3: true,
   scaffoldBackgroundColor: colorScheme.background,
   colorScheme: colorScheme,
+  //   // Use Google Fonts for custom typography, specifically 'Ubuntu Condensed'
   textTheme: GoogleFonts.ubuntuCondensedTextTheme().copyWith(
     titleSmall: GoogleFonts.ubuntuCondensed(
       fontWeight: FontWeight.bold,
