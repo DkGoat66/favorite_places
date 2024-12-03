@@ -15,7 +15,7 @@ class PlacesList extends StatelessWidget {
         child: Text('No places add yet'),
       );
     }
-
+//ListView
     return ListView.builder(
       itemCount: places.length,
       itemBuilder: (ctx, index) => ListTile(
