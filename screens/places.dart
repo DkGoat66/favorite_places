@@ -13,6 +13,7 @@ class PlacesScreen extends StatelessWidget {
         // title of the appbar
         title: const Text('Your places'),
         actions: [
+          // Icon button
           IconButton(
             onPressed: () {
               Navigator.of(context).push(
