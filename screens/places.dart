@@ -15,6 +15,7 @@ class PlacesScreen extends StatelessWidget {
         actions: [
           // Icon button
           IconButton(
+            // onPressed
             onPressed: () {
               Navigator.of(context).push(
                 MaterialPageRoute(
